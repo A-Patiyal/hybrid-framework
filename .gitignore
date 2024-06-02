@@ -1,6 +1,7 @@
 ##############################
 ## Java
 ##############################
+mvnw*
 .mtj.tmp/
 *.class
 *.jar
@@ -89,3 +90,4 @@ nb-configuration.xml
 ##############################
 *.log
 Screenshots/
+Reports/
